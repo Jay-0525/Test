@@ -4,7 +4,7 @@
 *&
 *&---------------------------------------------------------------------*
 REPORT ZMV_S4H_TEST_CASE.
-
+***TEST***
 DATA: STAWN TYPE MARC-STAWN,
       MTART TYPE MTART,
       EXPME TYPE MARC-EXPME,
